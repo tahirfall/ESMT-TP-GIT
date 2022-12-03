@@ -5,3 +5,4 @@ git branch -M main "Renommer la banche master en main"
 git remote add origin <URL> "Faire le lien entre le local et le remote"
 git push -u origin main "Mettre les modifcations sur le remote"
 git remote add deploy https://github.com/tahirfall/ESMT-TP-GIT.git(creer un remote deploy)
+git clone https://github.com/Poumba19/ESMT-TP-GIT.git(cloner deux projets)
