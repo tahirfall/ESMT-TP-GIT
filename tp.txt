@@ -1,8 +1,7 @@
 git init (commande pour initialiser git)
 git add --all(permet de faire les indexations)
 git commit -m "Permet d'enregistrer les modifications"
-git branch -M main "Renommer la branche master en main"
+git branch -M main "Renommer la banche master en main"
 git remote add origin <URL> "Faire le lien entre le local et le remote"
 git push -u origin main "Mettre les modifcations sur le remote"
-git remote get-url --all origin(Affiche le lien enregistre en local)
-git remote rm origin(Supprime le lien du serveur enregistrer en local)
+git remote add deploy https://github.com/tahirfall/ESMT-TP-GIT.git(creer un remote deploy)
