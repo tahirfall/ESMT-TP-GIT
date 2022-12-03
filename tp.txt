@@ -1,0 +1,5 @@
+git init (commande pour initialiser git)
+git add --all(permet de faire les indexations)
+git commit -m "Permet d'enregistrer les modifications"
+git remote add origin URL
+git push -u origin master
